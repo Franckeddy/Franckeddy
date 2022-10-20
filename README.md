@@ -37,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### :fire: My Stats :
 
 
@@ -44,8 +46,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franckeddy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-
+<img src="https://komarev.com/ghpvc/?username=Franckeddy&style=flat-square&color=blue" alt=""/>
 <!---
 Franckeddy/Franckeddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
