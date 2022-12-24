@@ -28,7 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="PHP" alt="PHP " width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/symfony/symfony-original.svg" title="symfony" alt="symfony " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/develop/icons/kibana/kibana-original.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/develop/icons/kibana/kibana-original.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/develop/icons/logstash/logstash-original.svg" title="logstash" alt="logstash" width="40" height="40"/>&nbsp;   
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
