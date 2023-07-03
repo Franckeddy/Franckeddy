@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" sytle="pointer-events: none!importtant;">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
    <div id="badges">
   </div>
@@ -24,9 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="PHP" alt="PHP " width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/symfony/symfony-original.svg" title="symfony" alt="symfony " width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/kibana/kibana-original.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/develop/icons/logstash/logstash-original.svg" title="logstash" alt="logstash" width="40" height="40"/>&nbsp;   
